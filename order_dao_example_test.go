@@ -5,9 +5,9 @@ import (
 	"go.uber.org/mock/gomock"
 	"testing"
 
-	"github.com/driftprogramming/pgxpoolmock"
-	"github.com/driftprogramming/pgxpoolmock/testdata"
 	"github.com/jackc/pgx/v5/pgconn"
+	"github.com/jairogloz/pgxpoolmock"
+	"github.com/jairogloz/pgxpoolmock/testdata"
 	"github.com/stretchr/testify/assert"
 )
 
